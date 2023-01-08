@@ -1,0 +1,41 @@
+body{
+    color: white;
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
+
+button{
+    text-align: left;
+    position: fixed;
+    left: 70%;
+}
+
+.hidden{
+    display: none;
+}
+
+#todo-list{
+    text-align: left;
+    position: fixed;
+    left: 30%;
+    text-shadow: 1px 1px 2px #202020;
+}
+
+#quote{
+    background-color: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    position: fixed;
+    bottom: 5%;
+    left: 2%;
+}
+
+#weather{
+    background-color: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    position: fixed;
+    top: 2%;
+    right: 2%;
+}
